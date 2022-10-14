@@ -2,6 +2,6 @@
 
 This file is a simple text file that can be used to demonstarte using Git.
 
-It contains a few speeling errorz.
+It contains a few spelling error.
 
-Let's see what happens when they get fxd by different people!
+Let's see what happens when they get fixed by different people!
